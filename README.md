@@ -1,6 +1,5 @@
 # noisefloor
 
-[![tests](https://github.com/JosephAnggono/noisefloor/actions/workflows/tests.yml/badge.svg)](https://github.com/JosephAnggono/noisefloor/actions/workflows/tests.yml)
 ![python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
@@ -188,8 +187,8 @@ python experiments/run_all.py   # about 5 minutes on 2 CPU cores; fixed seeds
 - Chizat, Oyallon & Bach (2019). On lazy training in differentiable programming. *NeurIPS.*
 - Martin & Mahoney (2021). Implicit self-regularization in deep neural networks. *JMLR.*
 - Thamm, Staats & Rosenow (2022). Random matrix analysis of deep neural network weight matrices. *Phys. Rev. E.*
+- Staats, Thamm & Rosenow (2022). Boundary between noise and information applied to filtering neural network weight matrices. arXiv:2206.03927.
 - Ba, Erdogdu, Suzuki, Wang, Wu & Yang (2022). High-dimensional asymptotics of feature learning: how one gradient step improves the representation. *NeurIPS.*
-- Staats, Thamm & Rosenow (2023). Boundary between noise and information applied to filtering neural network weight matrices. *Phys. Rev. E.*
 - Meng, Wang & Zhang (2024). PiSSA: principal singular values and singular vectors adaptation of large language models. *NeurIPS.*
 
 ## License
